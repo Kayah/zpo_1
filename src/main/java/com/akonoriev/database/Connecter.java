@@ -12,7 +12,7 @@ import java.util.Properties;
 public class Connecter {
     private static final String URL = "jdbc:mysql://localhost:3306/users";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "k980725Jkonorev";
+    private static final String PASSWORD = "123";
 
     private Connection connection;
 
